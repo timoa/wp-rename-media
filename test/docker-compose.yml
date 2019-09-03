@@ -30,7 +30,7 @@ services:
       - db
     image: phpmyadmin/phpmyadmin:latest
     ports:
-      - "8080:8080"
+      - "8080:80"
     restart: always
 
 volumes:
