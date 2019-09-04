@@ -29,8 +29,8 @@ docker-compose up
 
 | Image | URL | Login | Password |
 |---|---|---|---|
-| Wordpress | http://localhost:8000 | | |
-| phpMyAdmin | http://localhost:8080 | `wordpress` | `wordpress` |
+| Wordpress | <http://localhost:8000> | | |
+| phpMyAdmin | <http://localhost:8080> | `wordpress` | `wordpress` |
 
 [wordpress-url]: http://localhost:8000
 [phpmyadmin-url]: http://localhost:8080
